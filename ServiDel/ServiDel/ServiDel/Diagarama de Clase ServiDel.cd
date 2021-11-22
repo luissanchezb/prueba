@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ServiDel.Usuario">
+    <Position X="8.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAIAAgAAACAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Usuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiDel.Gestor">
+    <Position X="12" Y="0.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AACAAAACCAAAKAAAACCAAAAAAAAIAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Gestor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiDel.Cliente">
+    <Position X="4.25" Y="1" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAEAIAAgAAAAAAIAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiDel.Notificaciones">
+    <Position X="5.25" Y="6" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAQAAAAAAAAAAAAAAAAAAAAAAAACgAAAAAA=</HashCode>
+      <FileName>Notificaciones.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiDel.Menu">
+    <Position X="8.75" Y="6.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAUAAAAAAQAAAAAAAAAAAAAAAAAAAAAgAAIAAAAAAA=</HashCode>
+      <FileName>Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiDel.Informacióndeentrega">
+    <Position X="1" Y="3.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAgAgAAAAAAAAAgAAAAAAAAQAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Informacióndeentrega.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiDel.Favoritos">
+    <Position X="6.5" Y="3.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Favoritos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiDel.Entrega">
+    <Position X="1.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAkAABAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Entrega.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiDel.AjustesCliente">
+    <Position X="3.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAQAA=</HashCode>
+      <FileName>AjustesCliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiDel.AjustesGestor">
+    <Position X="14.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAQAA=</HashCode>
+      <FileName>AjustesGestor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiDel.DetallesdeRespuestas">
+    <Position X="12" Y="7" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>DetallesdeRespuestas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiDel.Respuestas">
+    <Position X="10.75" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAYAAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Respuestas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiDel.Solicitudes">
+    <Position X="14" Y="4.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAIIAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Solicitudes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
